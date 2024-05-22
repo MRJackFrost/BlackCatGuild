@@ -64,4 +64,4 @@ MRjackFrost - Bruno
 ## Licença
 The MIT License (MIT)
 
-## Copyright ©️ 2023 - Ninja Spirit
+## Copyright ©️ 2023 -BlackCatGuild
