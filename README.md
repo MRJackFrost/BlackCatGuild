@@ -9,8 +9,6 @@ Black Cat Guild
 
 🔹 Funcionalidades
 
-🔹 Distribuição
-
 🔹 Pré-requisitos
 
 🔹 Como rodar a aplicação
@@ -38,9 +36,6 @@ Black Cat Guild é um projeto de um jogo metroid vania, estou testando tanto as 
 ✔️ sistema de escolha de classe
 
 ![BlackCat](https://i.ibb.co/sPQgtKy/2024-05-21-23-12-03.gif)
-
-## Distribuição
-[Link para teste da versão disponibilizada.](https://github.com/MRJackFrost/Triangulo_Funcoes/blob/master/Program.cs)
 
 ## Pré-requisitos ⚠️    
 unity;
